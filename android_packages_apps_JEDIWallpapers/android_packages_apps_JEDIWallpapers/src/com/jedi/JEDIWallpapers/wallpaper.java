@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.CMWallpapers;
+package com.jediopensourceproject.JEDIWallpapers;
 
 import android.app.Activity;
 import android.content.res.Resources;
