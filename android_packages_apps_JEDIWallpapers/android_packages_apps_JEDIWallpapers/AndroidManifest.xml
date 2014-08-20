@@ -8,7 +8,7 @@
         <activity
             android:name="wallpaper"
             android:label="@string/app_name"
-            android:icon="@drawable/jedi_icon_icon"
+            android:icon="@drawable/jedi_icon"
             android:screenOrientation="nosensor"
             android:finishOnCloseSystemDialogs="true">
             <intent-filter>
